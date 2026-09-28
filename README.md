@@ -1,1 +1,5 @@
-# Rakuten-ROOM-Support
+# Rakuten-ROOM-Support楽天ROOM投稿支援ツール
+
+楽天Web Service APIを利用して楽天市場の商品情報を取得し、個人の楽天ROOM運用における商品候補の選定、商品情報の管理、紹介文作成を支援するWindowsアプリケーションです。
+
+本アプリケーションから楽天ROOMへの自動投稿は行いません。
